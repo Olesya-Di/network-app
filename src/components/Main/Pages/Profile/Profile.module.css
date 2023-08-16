@@ -1,0 +1,23 @@
+.profile {
+  display: grid;
+  grid-template-columns: 35% 63%;
+  grid-template-rows: 10% 90%;
+  gap: 2%;
+  grid-template-areas: "ava title" "ava list";
+}
+.profile__ava {
+  width: 100%;
+  min-width: 50%;
+  grid-area: ava;
+  height: 100%;
+}
+.profile__title {
+  grid-area: title;
+  margin: 0;
+}
+.profile__list {
+  grid-area: list;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=Profile.module.css.map */

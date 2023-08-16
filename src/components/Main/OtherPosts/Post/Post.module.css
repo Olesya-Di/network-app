@@ -1,0 +1,11 @@
+.post {
+  width: 85%;
+  display: inline-flex;
+  align-items: center;
+  gap: 2%;
+}
+.post__img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}/*# sourceMappingURL=Post.module.css.map */

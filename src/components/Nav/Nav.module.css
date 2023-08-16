@@ -1,0 +1,11 @@
+.nav {
+  grid-area: n;
+  background-color: aquamarine;
+}
+.nav__list {
+  list-style-type: none;
+  padding: 0 5px;
+}
+.nav__link {
+  text-decoration: none;
+}/*# sourceMappingURL=Nav.module.css.map */
